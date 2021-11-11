@@ -32,6 +32,14 @@
 <br />
 <br />
 
+---
+
+# Now Listening
+
+<a href="https://spotify-mauriziodm91.vercel.app/now-playing?open">
+    <img src="https://spotify-mauriziodm91.vercel.app/now-playing" width="256" height="94" alt="Now Playing">`
+</a>
+
 
 [instagram]: https://www.instagram.com/dmh.mauri/
 [linkedin]: https://www.linkedin.com/in/maurizio-de-marchis-91b655154/
