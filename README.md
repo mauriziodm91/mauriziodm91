@@ -11,7 +11,7 @@
 
 [<img align="left" alt="mauri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mauri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<img align="left" alt="mauri | Steam" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/steam.svg" />
+[<img align="left" alt="mauri | Steam" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/steam.svg" />][steam]
 <br />
 
 ### Languages and Tools:
@@ -41,4 +41,5 @@
 </a>
 
 [instagram]: https://www.instagram.com/dmh.mauri/
-[linkedin]: https://www.linkedin.com/in/maurizio-de-marchis-91b655154/
+[linkedin]: https://www.linkedin.com/in/maurizio-de-marchis-91b655154
+[steam]: https://steamcommunity.com/profiles/76561198050658154/
