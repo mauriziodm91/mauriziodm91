@@ -37,7 +37,7 @@
 # Now Listening <img align="justify-left" alt="mauri | Steam" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spotify.svg" />
 
 <a href="https://spotify-mauriziodm91.vercel.app/now-playing?open">
-    <img src="https://spotify-mauriziodm91.vercel.app/now-playing" width="540" height="94" alt="Now Playing">`
+    <img src="https://spotify-mauriziodm91.vercel.app/now-playing" width="540" height="94" alt="Now Playing">
 </a>
 
 [instagram]: https://www.instagram.com/dmh.mauri/
