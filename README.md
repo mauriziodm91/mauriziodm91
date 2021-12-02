@@ -41,5 +41,5 @@
 </a>
 
 [instagram]: https://www.instagram.com/dmh.mauri/
-[linkedin]: https://www.linkedin.com/in/maurizio-de-marchis-91b655154
+[linkedin]: https://www.linkedin.com/in/dmmaurizio/
 [steam]: https://steamcommunity.com/profiles/76561198050658154/
