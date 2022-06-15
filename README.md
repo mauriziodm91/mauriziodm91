@@ -41,6 +41,6 @@
     <img src="https://spotify-mauriziodm91.vercel.app/now-playing" width="540" height="94" alt="Now Playing">
 </a>
 
-[instagram]: https://www.instagram.com/dmh.mauri/
+[instagram]: https://www.instagram.com/dmh.gm/
 [linkedin]: https://www.linkedin.com/in/dmmaurizio/
 [steam]: https://steamcommunity.com/profiles/76561198050658154/
