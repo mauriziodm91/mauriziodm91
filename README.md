@@ -7,7 +7,7 @@ Full stack developer
 I've been learning how to code (without any interruptions) since 2019 and hey i know how to code web apps using the MERN stack.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* 🖥️  See my portfolio at [this link](http://https://radiant-kitsune-5e5d7c.netlify.app/)
+* 🖥️  See my portfolio at [this link](https://maurizio-de-marchis.netlify.app/)
 * 🧠  I'm learning React Native.
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I love riding jet skis in the summer
